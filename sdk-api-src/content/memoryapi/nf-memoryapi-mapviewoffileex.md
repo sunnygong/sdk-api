@@ -1,7 +1,7 @@
 ---
 UID: NF:memoryapi.MapViewOfFileEx
 title: MapViewOfFileEx function (memoryapi.h)
-description: Maps a view of a file mapping into the address space of a calling process. A caller can optionally specify a suggested base memory address for the view.
+description: Maps a view of a file mapping object into the address space of a calling process. A caller can optionally specify a suggested base memory address for the view.
 old-location: base\mapviewoffileex.htm
 tech.root: Memory
 ms.assetid: 2ac8a7d6-5c52-41de-acb9-d7f975fd2a94
