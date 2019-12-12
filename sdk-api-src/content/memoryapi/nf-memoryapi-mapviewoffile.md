@@ -1,7 +1,7 @@
 ---
 UID: NF:memoryapi.MapViewOfFile
 title: MapViewOfFile function (memoryapi.h)
-description: Maps a view of a file mapping into the address space of a calling process.
+description: Maps a view of a file mapping object into the address space of a calling process.
 old-location: base\mapviewoffile.htm
 tech.root: Memory
 ms.assetid: df9f54cd-b2de-4107-a1c5-d5a07045851e
